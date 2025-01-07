@@ -1,4 +1,4 @@
 # Introduction
-This is a solution for lab 11
+This is a solution for Lab 11
 
 
